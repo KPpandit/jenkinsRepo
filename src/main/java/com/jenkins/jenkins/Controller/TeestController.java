@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TeestController {
     @GetMapping("/api/name")
     public String name(){
-        return "Krishna Purohit123";
+        return "Krishna Purohit";
     }
 }
