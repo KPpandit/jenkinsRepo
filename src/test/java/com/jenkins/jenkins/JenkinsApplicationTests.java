@@ -11,7 +11,7 @@ class JenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		LOGGER.info("Test Case Executing ...");
-		LOGGER.info("Test Case Execcting with nre additional Changes ...");
+
 		assert (true);
 	}
 
